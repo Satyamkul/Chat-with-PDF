@@ -1,4 +1,4 @@
-Chat PDF Agent with Perplexity API — README
+Chat PDF Agent with Perplexity API 
 
 Overview
 
